@@ -1,0 +1,6 @@
+/Users/hlw1404/RiderProjects/CommandLineArguments/CommandLineArguments/bin/Debug/CommandLineArguments.exe
+/Users/hlw1404/RiderProjects/CommandLineArguments/CommandLineArguments/bin/Debug/CommandLineArguments.pdb
+/Users/hlw1404/RiderProjects/CommandLineArguments/CommandLineArguments/obj/Debug/CommandLineArguments.csprojAssemblyReference.cache
+/Users/hlw1404/RiderProjects/CommandLineArguments/CommandLineArguments/obj/Debug/CommandLineArguments.csproj.CoreCompileInputs.cache
+/Users/hlw1404/RiderProjects/CommandLineArguments/CommandLineArguments/obj/Debug/CommandLineArguments.exe
+/Users/hlw1404/RiderProjects/CommandLineArguments/CommandLineArguments/obj/Debug/CommandLineArguments.pdb
